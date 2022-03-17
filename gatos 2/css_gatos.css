@@ -1,0 +1,27 @@
+body{
+    background-color: #b0e0e6;
+}
+.texto_tit{
+    font-family: 'Courier New', Courier, monospace;
+    font: 40px;
+    text-align: center;
+    color: black;
+}
+
+.texto_par{
+    font-family: 'Times New Roman', Times, serif;
+    font: 20px;
+    border-style: solid;
+    border-color: #1f63a6;
+    margin-left: 150px;
+    margin-right: 150px;
+    text-align: center;
+    color: black;
+}
+
+.texto_descrip{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: justify;
+    background-color: #62d8e7;
+    color: black;
+}
