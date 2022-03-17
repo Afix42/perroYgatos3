@@ -1,0 +1,32 @@
+.centrado{
+    text-align:justify;
+    border-style: solid;
+    border-color: #1f63a6;
+    margin-left: 200px;
+    margin-right: 210px;
+    padding: 10px;
+
+
+}
+
+* {
+    background-color: #b0e0e6;
+}
+
+.centradotitulo{
+    text-align: center;
+    font-family:'Courier New', Courier, monospace ;
+    font-size: 40px;
+    text-decoration: underline;
+}
+#subtitulo{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 27px;
+    text-decoration: underline;
+}
+.footer{
+    text-align: left;
+    background-color: #7db2b9;
+    
+}
